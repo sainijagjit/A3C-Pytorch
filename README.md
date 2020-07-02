@@ -4,10 +4,8 @@ This is a PyTorch implementation of Asynchronous Advantage Actor Critic (A3C) fr
 <br>
 https://arxiv.org/pdf/1602.01783v1.pdf
 
-<h2>Pong-V0</h2><br>
 Link to video: https://drive.google.com/file/d/1u4TV0JqYzIWxlIu2tpKSI5k-aUeIzDBT/view?usp=sharing
 [![Watch the video](https://github.com/sainijagjit/A3C-Pytorch/blob/master/pong-v0.png)](https://drive.google.com/file/d/1u4TV0JqYzIWxlIu2tpKSI5k-aUeIzDBT/view?usp=sharing)
-<br><br>
-<h2>SpaceInvaders</h2><br>
+
 Link to video: https://drive.google.com/file/d/1zffhWVBxZz_3L7QUFmrAqEB4g85c-FT7/view?usp=sharing
 [![Watch the video](https://github.com/sainijagjit/A3C-Pytorch/blob/master/space_invaders.png)](https://drive.google.com/file/d/1zffhWVBxZz_3L7QUFmrAqEB4g85c-FT7/view?usp=sharing)
